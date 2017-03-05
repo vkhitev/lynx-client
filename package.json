@@ -1,0 +1,13 @@
+{
+  "name": "int20h-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chart.js",
+  "scripts": {
+    "start": "http-server -P http://192.168.33.80:8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vlad Khitev <vkhitev@gmail.com> (https://vk.com/id18315550)",
+  "license": "ISC"
+}
